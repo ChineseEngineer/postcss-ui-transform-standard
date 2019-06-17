@@ -14,11 +14,11 @@
   },
   "author": "ChineseEnginner",
   "license": "MIT",
-  "repository": "https://github.com/ChineseEngineer/postcss-cubeui-transform",
+  "repository": "https://github.com/ChineseEngineer/postcss-ui-transform-standard",
   "bugs": {
-    "url": "https://github.com/ChineseEngineer/postcss-cubeui-transform/issues"
+    "url": "https://github.com/ChineseEngineer/postcss-ui-transform-standard/issues"
   },
-  "homepage": "https://github.com/ChineseEngineer/postcss-cubeui-transform",
+  "homepage": "https://github.com/ChineseEngineer/postcss-ui-transform-standard",
   "dependencies": {
     "postcss": "^7.0.6"
   },
