@@ -1,6 +1,6 @@
 {
-  "name": "postcss-ui-transform-750",
-  "version": "0.1.0",
+  "name": "postcss-ui-transform-standard",
+  "version": "0.1.1",
   "description": "PostCSS plugin ui to 750",
   "keywords": [
     "postcss",
