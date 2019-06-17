@@ -11,7 +11,6 @@ module.exports = postcss.plugin('postcss-cubeui-transform', function (opts) {
       rule.walkDecls(function(decl) {
         var reg = /\d+px/gi
         decl.value = decl.value.replace(reg, function (val) {
-          console.log(`valvalvalvalvalvalvalvalvalvalvalvalvalvalvalvalvalvalvalvalval: ${val}`)
           val = val.toLowerCase()
           if (val === '1px') return val
           return parseFloat(val) * 2 + 'px'
